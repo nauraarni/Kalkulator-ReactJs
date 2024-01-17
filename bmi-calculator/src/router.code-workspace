@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../router"
+		},
+		{
+			"path": "../../biner"
+		},
+		{
+			"path": "../../oktal"
+		},
+		{
+			"path": "../../desimal"
+		},
+		{
+			"path": "../../heksadesimal"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../cicilan-bank"
+		},
+		{
+			"path": "../../harga"
+		},
+		{
+			"path": "../../bilangan"
+		}
+	]
+}
